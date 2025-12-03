@@ -1,0 +1,5 @@
+requests
+langgraph
+openai>=1.40.0
+numpy
+python-dotenv
